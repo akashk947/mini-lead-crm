@@ -1,4 +1,4 @@
-##React + TypeScript
+###React + TypeScript
 
 I used React with TypeScript to build a scalable and component-based frontend architecture. TypeScript improves type safety, maintainability, and developer experience, especially for handling lead models, API responses, and status transitions.
 
